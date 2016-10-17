@@ -1,0 +1,34 @@
+.banner{ position: relative; overflow: auto;width: 1200px;}
+.turns{width: 1200px;margin: 0px auto;height: 450px;margin-bottom: 40px;}
+#quanbufenlei{position: relative;margin-left: 40px;float: left;height: 40px;}
+#quanbufenlei1 ul{width: 120px;margin:0 auto;}
+#quanbufenlei1 ul li{width:120px;margin: 0 0px;padding: 10px 0;position: relative;list-style: none; text-align: center;}
+#quanbufenlei1{background: rgba(0,0,0,0.6) ;position: absolute;left: -40px;top: 40px;z-index: 10;display: none;}
+#quanbufenlei1 ul li a{height: 20px;line-height: 20px;font-size: 14px;color: #fff;}
+#quanbufenlei1 a:hover{border-bottom: 1px solid #00A0E8;color:#00A0E8;}
+#quanbufenlei1 ul li>div{position:absolute;left: 119px;top: 10px; display: none;background: rgba(0,0,0,0.6); padding: 0px 5px;}
+.picturehead{border-bottom: 1px solid #8E8E8E;height: 40px;}
+.picturehead-right{float: right;}
+.picturehead-right a:hover{color: #ababab;}
+.picturehead1-left{float: left;margin-top: 70px;margin-left: 20px;}
+.picturehead1-left span{font-size: 30px;color:#00A0E8;} 
+.picturehead1-right{float: right;}
+.picturehead1-right ul{height: 40px;} 
+.picturehead1-right ul li{list-style: none;float: left;margin:10px 5px;}
+.picturehead1-right span{font-weight: bold;margin-right: 20px;}
+.picturehead1-right .go a{color: #00A0E8;margin-left: 10px;}
+.picturehead1-right .gofloors{margin-top: 40px;margin-left: 70px;}
+.floors{margin:3px;width:45px;height:18px;text-align: center;background-color: rgba(255,255,255,0.1);border: 1px solid #535353;}
+.box{width: 1200px;padding-top: 25px;clear: both; }
+.box>div{width:385px;margin-right: 22px;float: left;background: #fff;margin-top: 20px;}
+.box a:hover{color: #A9A9A9;}
+.box .author{background: #AAA699;color: #fff;margin-top: -22px;height: 22px;line-height: 22px;width: 385px; z-index: 10;padding-left: 5px;opacity: 0.9;display: none;}
+.box .description{padding: 5px 8px 20px 8px;}
+.description>div{margin-bottom: 5px;}
+.box span{color: #00A0E8;font-size: 12px;font-weight: bold;}
+.box .colorsz{font-size: 12px;}
+.box .rightdiv{margin-right: 0;}
+.picturefoot div{float: right;height: 40px;margin-top: 10px;/*margin-bottom: 60px;*/}
+.picturefoot ul li{list-style: none;float: left;margin: 5px;}
+.picturefoot ul li a{font-size: 14px;font-weight: bold;color: #535353;padding: 5px 7px;height: 30px;width: 30px; text-align: center; border-radius: 5px;border: 1px solid #535353;}
+.picturefoot .checked a{border: 1px solid #00A0E8;color: #00A0E8;}
